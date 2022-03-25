@@ -1,4 +1,4 @@
-# This Repo contains Terraform code to create Ec2 instance in AWS cloud
+# This Repo contains Terraform code to create Ec2 instance in AWS 
 
 sudo apt install openjdk-8-jdk -y
 
